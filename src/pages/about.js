@@ -21,7 +21,7 @@ const AboutPage = () => {
                 <div className="wrapper">
                     <Header />
                     <PageBanner
-                        title="About us Dimas Ganteng"
+                        title="About us Dimas Ganteng sdsas"
                         excerpt="Pleasure rationally en sadsdcounter consequences <br /> are extremely painful
                         great oppurtunity"
                         image="./images/banner/1.png"

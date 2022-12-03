@@ -43,9 +43,5 @@
             }
         }]
     },
-    "editor.formatOnSave": false,
-    "editor.codeActionsOnSave": {
-        "source.fixAll": false,
-        "source.fixAll.eslint": true
-    },
+    
 }
